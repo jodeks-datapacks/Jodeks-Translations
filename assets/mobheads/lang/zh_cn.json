@@ -22,15 +22,15 @@
 
   "mobheads.config.head_drop_advancements": "头颅掉落进度",
 
-  "mobheads.config.drop_rates": "掉落率",
-  "mobheads.config.drop_rates.description.1": "掉落率为小数，例如 0.5 = 50%%",
+  "mobheads.config.drop_rates": "爆率",
+  "mobheads.config.drop_rates.description.1": "爆率以小数表示，例如 0.5 = 50%%",
   "mobheads.config.drop_rates.description.2": "括号中的值是乘后的值",
-  "mobheads.config.drop_rates.description.3": "用作实际掉落率",
-  "mobheads.config.drop_rate_multiplier": "掉落率倍率",
+  "mobheads.config.drop_rates.description.3": "用作实际爆率",
+  "mobheads.config.drop_rate_multiplier": "爆率倍率",
 
   "mobheads.config.rarity": "稀有度（头颅名称颜色）",
   "mobheads.config.rarity.common": "0 = 普通 = 白色",
-  "mobheads.config.rarity.uncommon": "1 = 不常见 = 黄色",
+  "mobheads.config.rarity.uncommon": "1 = 罕见 = 黄色",
   "mobheads.config.rarity.rare": "2 = 稀有 = 青色",
   "mobheads.config.rarity.epic": "3 = 史诗 = 深紫色",
   "mobheads.config.rarity.legendary": "4 = 传奇 = 金色",
@@ -54,7 +54,7 @@
   "mobheads.advancement.collection.collect_the": "收集",
 
   "mobheads.advancement.collection.cold": "寒冷",
-  "mobheads.advancement.collection.temperate": "温带",
+  "mobheads.advancement.collection.temperate": "温和",
   "mobheads.advancement.collection.warm": "温暖",
 
   "mobheads.advancement.collection.aquatic": "水生",
