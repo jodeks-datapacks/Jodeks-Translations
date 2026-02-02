@@ -99,7 +99,7 @@
   "mobheads.advancement.collection.golem": "Golem Heads",
   "mobheads.advancement.collection.golem.copper_golem.exposed": "Exposed",
   "mobheads.advancement.collection.golem.copper_golem.oxidized": "Oxidized",
-  "mobheads.advancement.collection.golem.copper_golem.unaffected": "Unaffected",
+  "mobheads.advancement.collection.golem.copper_golem.unaffected": "Unoxidized",
   "mobheads.advancement.collection.golem.copper_golem.weathered": "Weathered",
 
   "mobheads.advancement.collection.horse.chestnut": "Chestnut",
@@ -116,8 +116,8 @@
   "mobheads.advancement.collection.jungle.panda.weak": "Weak",
   "mobheads.advancement.collection.jungle.panda.worried": "Worried",
   "mobheads.advancement.collection.jungle.parrot": "Parrot Heads",
-  "mobheads.advancement.collection.jungle.parrot.red_blue": "Red Blue",
-  "mobheads.advancement.collection.jungle.parrot.yellow_blue": "Yellow Blue",
+  "mobheads.advancement.collection.jungle.parrot.red_blue": "Red",
+  "mobheads.advancement.collection.jungle.parrot.yellow_blue": "Blue",
 
   "mobheads.advancement.collection.llama.creamy": "Creamy",
 
