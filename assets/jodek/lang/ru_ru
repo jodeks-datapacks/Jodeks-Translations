@@ -1,0 +1,18 @@
+{
+  "jodek.save": "Сохранить",
+  "jodek.cancel": "Отмена",
+  "jodek.close": "Закрыть",
+  "jodek.datapack_version": "Версия датапака: ",
+  "jodek.game_version": "Версия игры: ",
+  "jodek.closbye": "Сделанно",
+  "jodek.loaded": " загружен! ",
+  "jodek.hover_for_more_info": "наведите курсор для дополнительной информации",
+  "jodek.advancement.title": "Датапаки Мобов",
+  "jodek.advancement.desc": "Создатель ванильно-дружелюбных Датапаков",
+  "jodek.advancement.mob.title": "Датапаки Мобов",
+  "jodek.advancement.mob.desc": "Связано с поведением мобов, лутом и геймплейным взаимодействием",
+  "jodek.advancement.utility.title": "Датапаки Утилиты",
+  "jodek.advancement.utility.desc": "Предоставление функций общего назначения и улучшение качества жизни",
+  "jodek.advancement.mining.title": "Датапаки про Крафт и Добычу ресурсов",
+  "jodek.advancement.mining.desc": "Расширение или корректировка рецептов крафта и добычи ресурсов"
+}
