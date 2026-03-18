@@ -1,0 +1,16 @@
+{
+"afk_announcer.config":"Настройки АФК Оповещателя",
+"afk_announcer.config.time_until_afk":"Времени до АФК",
+"afk_announcer.config.afk_kick":"Выгнать/Кикнуть АФК",
+"afk_announcer.config.rotation_check":"Проверка Движения Камеры",
+"afk_announcer.config.leave_game_check":"Проверка Покидания Игры",
+"afk_announcer.config.screen_notification":"Уведомление на экране",
+"afk_announcer.config.chat_notification":"Уведомление в чате",
+"afk_announcer.seconds":"секунды",
+"afk_announcer.kick_message":"был выгнан за АФК дольше чем",
+"afk_announcer.afk_message":"Ты теперь в АФК!",
+"afk_announcer.is_afk":"в АФК!",
+"afk_announcer.no_longer_afk_message":"Ты больше не в АФК",
+"afk_announcer.no_longer_afk":"не в АФК!",
+"afk_announcer.description":"Оповещает АФК игроков"
+}
