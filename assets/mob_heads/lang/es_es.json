@@ -1,0 +1,136 @@
+{
+  "mob_heads.head": "Cabeza",
+  "mob_heads.heads": "Cabezas",
+  "mob_heads.skull": "Cráneo",
+
+  "mob_heads.title": "Cabezas de Mobs",
+  "mob_heads.description": "Los mobs pueden soltar su cabeza al morir",
+
+  "mob_heads.entity.charged_creeper": "Creeper cargado",
+  "mob_heads.entity.blue_axolotl": "Ajolote azul",
+  "mob_heads.entity.special_panda": "Panda especial",
+
+  "mob_heads.get_head.desc": "Haz clic en una cabeza y haz clic en \"Ejecutar comando\"",
+  "mob_heads.get_head.desc.close": "Cerrar con escape",
+
+  "mob_heads.config.title": "Configuración de Cabezas de Mobs",
+  "mob_heads.config.description": "¡Asegúrate de guardar tus cambios!",
+
+  "mob_heads.config.drop_condition": "Condición de drop",
+  "mob_heads.config.drop_condition.charged_creeper": "Matado por creeper cargado",
+  "mob_heads.config.drop_condition.player": "Matado por jugador",
+
+  "mob_heads.config.head_drop_advancements": "Logros de drop de cabezas",
+
+  "mob_heads.config.drop_rates": "Tasas de drop",
+  "mob_heads.config.drop_rates.description.1": "Las tasas de drop son decimales, ej. 0.5 = 50%%",
+  "mob_heads.config.drop_rates.description.2": "El valor en () es el valor multiplicado",
+  "mob_heads.config.drop_rates.description.3": "que se usa como tasa de drop real",
+  "mob_heads.config.drop_rate_multiplier": "Multiplicador de tasa de drop",
+
+  "mob_heads.config.rarity": "Rareza (Color del nombre de cabeza)",
+  "mob_heads.config.rarity.common": "0 = común = blanco",
+  "mob_heads.config.rarity.uncommon": "1 = poco común = amarillo",
+  "mob_heads.config.rarity.rare": "2 = raro = aguamarina",
+  "mob_heads.config.rarity.epic": "3 = épico = morado oscuro",
+  "mob_heads.config.rarity.legendary": "4 = legendario = dorado",
+  "mob_heads.config.rarity.mythic": "5 = mítico = verde",
+
+  "mob_heads.config.drop_message": "Mensaje de drop",
+  "mob_heads.config.drop_messages": "Mensajes de drop",
+  "mob_heads.config.drop_messages.description": "Usa %s como marcador de posición para la entidad",
+
+  "mob_heads.config.drop_notification": "Notificación de drop",
+  "mob_heads.config.drop_notifications": "Notificaciones de drop",
+  "mob_heads.config.drop_notifications.description": "Activar o desactivar notificaciones de drop individualmente",
+
+  "mob_heads.config.get_all_head_advancements": "Obtener todos los logros de cabezas",
+  "mob_heads.config.reset_all_head_advancements": "Restablecer todos los logros de cabezas",
+
+  "mob_heads.advancement.collection.title": "Colección de Cabezas de Mobs",
+  "mob_heads.advancement.collection.desc": "Colección de todas las cabezas de mobs que has obtenido",
+
+  "mob_heads.advancement.collection.collect_all": "Colecciona todas",
+  "mob_heads.advancement.collection.collect_the": "Colecciona el",
+
+  "mob_heads.advancement.collection.cold": "Frío",
+  "mob_heads.advancement.collection.temperate": "Templado",
+  "mob_heads.advancement.collection.warm": "Cálido",
+
+  "mob_heads.advancement.collection.aquatic": "Acuático",
+  "mob_heads.advancement.collection.aquatic.coral": "Coral",
+
+  "mob_heads.advancement.collection.aquatic.axolotl.gold": "Dorado",
+  "mob_heads.advancement.collection.aquatic.axolotl.leucistic": "Leucístico",
+  "mob_heads.advancement.collection.aquatic.axolotl.wild": "Salvaje",
+
+  "mob_heads.advancement.collection.aquatic.hostile": "Acuático hostil",
+  "mob_heads.advancement.collection.aquatic.passive": "Acuático pasivo",
+
+  "mob_heads.advancement.collection.boss": "Jefe",
+  "mob_heads.advancement.collection.boss.wither.invulnerable": "Invulnerable",
+
+  "mob_heads.advancement.collection.carnivores": "Carnívoro",
+  "mob_heads.advancement.collection.carnivores.wolf.ashen": "Cenizo",
+  "mob_heads.advancement.collection.carnivores.wolf.chestnut": "Castaño",
+  "mob_heads.advancement.collection.carnivores.wolf.pale": "Pálido",
+  "mob_heads.advancement.collection.carnivores.wolf.rusty": "Oxidado",
+  "mob_heads.advancement.collection.carnivores.wolf.snowy": "Nevado",
+  "mob_heads.advancement.collection.carnivores.wolf.spotted": "Manchado",
+  "mob_heads.advancement.collection.carnivores.wolf.striped": "Rayado",
+  "mob_heads.advancement.collection.carnivores.wolf.woods": "Del bosque",
+
+  "mob_heads.advancement.collection.cat.all_black": "Todo negro",
+  "mob_heads.advancement.collection.cat.british_shorthair": "Británico de pelo corto",
+  "mob_heads.advancement.collection.cat.calico": "Calicó",
+  "mob_heads.advancement.collection.cat.jellie": "Jellie",
+  "mob_heads.advancement.collection.cat.persian": "Persa",
+  "mob_heads.advancement.collection.cat.ragdoll": "Ragdoll",
+  "mob_heads.advancement.collection.cat.siamese": "Siamés",
+  "mob_heads.advancement.collection.cat.tabby": "Atigrado",
+
+  "mob_heads.advancement.collection.end": "End",
+
+  "mob_heads.advancement.collection.goat.screaming": "Gritando",
+  "mob_heads.advancement.collection.goat.left_horn": "(Cuerno izquierdo)",
+  "mob_heads.advancement.collection.goat.no_horns": "(Sin cuernos)",
+  "mob_heads.advancement.collection.goat.right_horn": "(Cuerno derecho)",
+
+  "mob_heads.advancement.collection.golem": "Cabezas de Gólem",
+  "mob_heads.advancement.collection.golem.copper_golem.exposed": "Expuesto",
+  "mob_heads.advancement.collection.golem.copper_golem.oxidized": "Oxidado",
+  "mob_heads.advancement.collection.golem.copper_golem.unaffected": "Sin afectar",
+  "mob_heads.advancement.collection.golem.copper_golem.weathered": "Desgastado",
+
+  "mob_heads.advancement.collection.horse.chestnut": "Castaño",
+  "mob_heads.advancement.collection.horse.creamy": "Crema",
+  "mob_heads.advancement.collection.horse.darkbrown": "Marrón oscuro",
+
+  "mob_heads.advancement.collection.hostile": "Hostil",
+  "mob_heads.advancement.collection.hostile.raiders": "Saqueador",
+
+  "mob_heads.advancement.collection.jungle.panda.aggressive": "Agresivo",
+  "mob_heads.advancement.collection.jungle.panda.lazy": "Perezoso",
+  "mob_heads.advancement.collection.jungle.panda.normal": "Normal",
+  "mob_heads.advancement.collection.jungle.panda.playful": "Juguetón",
+  "mob_heads.advancement.collection.jungle.panda.weak": "Débil",
+  "mob_heads.advancement.collection.jungle.panda.worried": "Preocupado",
+  "mob_heads.advancement.collection.jungle.parrot": "Cabezas de Loro",
+  "mob_heads.advancement.collection.jungle.parrot.red_blue": "Rojo y azul",
+  "mob_heads.advancement.collection.jungle.parrot.yellow_blue": "Amarillo y azul",
+
+  "mob_heads.advancement.collection.llama.creamy": "Crema",
+
+  "mob_heads.advancement.collection.nether": "Cabezas del Nether",
+
+  "mob_heads.advancement.collection.passive": "Cabezas pasivas",
+
+  "mob_heads.advancement.collection.passive.bee.angry_pollen": "Enfadada con polen",
+  "mob_heads.advancement.collection.passive.bee.angry": "Enfadada",
+  "mob_heads.advancement.collection.passive.bee.normal": "Normal",
+  "mob_heads.advancement.collection.passive.bee.pollen": "Con polen",
+
+  "mob_heads.advancement.collection.rabbit.gold": "Dorado",
+  "mob_heads.advancement.collection.rabbit.salt": "Sal",
+  "mob_heads.advancement.collection.rabbit.white_sploteched": "Blanco manchado"
+}

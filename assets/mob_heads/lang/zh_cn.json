@@ -1,0 +1,136 @@
+{
+  "mob_heads.head": "头颅",
+  "mob_heads.heads": "头颅",
+  "mob_heads.skull": "头骨",
+
+  "mob_heads.title": "生物头颅",
+  "mob_heads.description": "生物被杀死时可能会掉落头颅",
+
+  "mob_heads.entity.charged_creeper": "闪电苦力怕",
+  "mob_heads.entity.blue_axolotl": "蓝色美西螈",
+  "mob_heads.entity.special_panda": "特殊熊猫",
+
+  "mob_heads.get_head.desc": "点击头颅并点击\"执行命令\"",
+  "mob_heads.get_head.desc.close": "按Escape关闭",
+
+  "mob_heads.config.title": "生物头颅配置",
+  "mob_heads.config.description": "请确保保存你的更改！",
+
+  "mob_heads.config.drop_condition": "掉落条件",
+  "mob_heads.config.drop_condition.charged_creeper": "被闪电苦力怕击杀",
+  "mob_heads.config.drop_condition.player": "被玩家击杀",
+
+  "mob_heads.config.head_drop_advancements": "头颅掉落进度",
+
+  "mob_heads.config.drop_rates": "爆率",
+  "mob_heads.config.drop_rates.description.1": "爆率以小数表示，例如 0.5 = 50%%",
+  "mob_heads.config.drop_rates.description.2": "括号中的值是乘后的值",
+  "mob_heads.config.drop_rates.description.3": "用作实际爆率",
+  "mob_heads.config.drop_rate_multiplier": "爆率倍率",
+
+  "mob_heads.config.rarity": "稀有度（头颅名称颜色）",
+  "mob_heads.config.rarity.common": "0 = 普通 = 白色",
+  "mob_heads.config.rarity.uncommon": "1 = 罕见 = 黄色",
+  "mob_heads.config.rarity.rare": "2 = 稀有 = 青色",
+  "mob_heads.config.rarity.epic": "3 = 史诗 = 深紫色",
+  "mob_heads.config.rarity.legendary": "4 = 传奇 = 金色",
+  "mob_heads.config.rarity.mythic": "5 = 神话 = 绿色",
+
+  "mob_heads.config.drop_message": "掉落消息",
+  "mob_heads.config.drop_messages": "掉落消息",
+  "mob_heads.config.drop_messages.description": "使用 %s 作为实体的占位符",
+
+  "mob_heads.config.drop_notification": "掉落通知",
+  "mob_heads.config.drop_notifications": "掉落通知",
+  "mob_heads.config.drop_notifications.description": "单独启用或禁用掉落通知",
+
+  "mob_heads.config.get_all_head_advancements": "获取所有头颅进度",
+  "mob_heads.config.reset_all_head_advancements": "重置所有头颅进度",
+
+  "mob_heads.advancement.collection.title": "生物头颅收藏",
+  "mob_heads.advancement.collection.desc": "你获得的所有生物头颅收藏",
+
+  "mob_heads.advancement.collection.collect_all": "收集所有",
+  "mob_heads.advancement.collection.collect_the": "收集",
+
+  "mob_heads.advancement.collection.cold": "寒冷",
+  "mob_heads.advancement.collection.temperate": "温和",
+  "mob_heads.advancement.collection.warm": "温暖",
+
+  "mob_heads.advancement.collection.aquatic": "水生",
+  "mob_heads.advancement.collection.aquatic.coral": "珊瑚",
+
+  "mob_heads.advancement.collection.aquatic.axolotl.gold": "金色",
+  "mob_heads.advancement.collection.aquatic.axolotl.leucistic": "白化",
+  "mob_heads.advancement.collection.aquatic.axolotl.wild": "野生",
+
+  "mob_heads.advancement.collection.aquatic.hostile": "敌对水生",
+  "mob_heads.advancement.collection.aquatic.passive": "友好水生",
+
+  "mob_heads.advancement.collection.boss": "Boss",
+  "mob_heads.advancement.collection.boss.wither.invulnerable": "无敌",
+
+  "mob_heads.advancement.collection.carnivores": "食肉动物",
+  "mob_heads.advancement.collection.carnivores.wolf.ashen": "灰烬",
+  "mob_heads.advancement.collection.carnivores.wolf.chestnut": "栗色",
+  "mob_heads.advancement.collection.carnivores.wolf.pale": "苍白",
+  "mob_heads.advancement.collection.carnivores.wolf.rusty": "锈色",
+  "mob_heads.advancement.collection.carnivores.wolf.snowy": "雪白",
+  "mob_heads.advancement.collection.carnivores.wolf.spotted": "斑点",
+  "mob_heads.advancement.collection.carnivores.wolf.striped": "条纹",
+  "mob_heads.advancement.collection.carnivores.wolf.woods": "森林",
+
+  "mob_heads.advancement.collection.cat.all_black": "全黑",
+  "mob_heads.advancement.collection.cat.british_shorthair": "英国短毛",
+  "mob_heads.advancement.collection.cat.calico": "三花",
+  "mob_heads.advancement.collection.cat.jellie": "杰利",
+  "mob_heads.advancement.collection.cat.persian": "波斯",
+  "mob_heads.advancement.collection.cat.ragdoll": "布偶",
+  "mob_heads.advancement.collection.cat.siamese": "暹罗",
+  "mob_heads.advancement.collection.cat.tabby": "虎斑",
+
+  "mob_heads.advancement.collection.end": "末地",
+
+  "mob_heads.advancement.collection.goat.screaming": "尖叫",
+  "mob_heads.advancement.collection.goat.left_horn": "（左角）",
+  "mob_heads.advancement.collection.goat.no_horns": "（无角）",
+  "mob_heads.advancement.collection.goat.right_horn": "（右角）",
+
+  "mob_heads.advancement.collection.golem": "傀儡头颅",
+  "mob_heads.advancement.collection.golem.copper_golem.exposed": "斑驳",
+  "mob_heads.advancement.collection.golem.copper_golem.oxidized": "氧化",
+  "mob_heads.advancement.collection.golem.copper_golem.unaffected": "未氧化",
+  "mob_heads.advancement.collection.golem.copper_golem.weathered": "锈蚀",
+
+  "mob_heads.advancement.collection.horse.chestnut": "栗色",
+  "mob_heads.advancement.collection.horse.creamy": "奶油色",
+  "mob_heads.advancement.collection.horse.darkbrown": "深棕色",
+
+  "mob_heads.advancement.collection.hostile": "敌对",
+  "mob_heads.advancement.collection.hostile.raiders": "袭击者",
+
+  "mob_heads.advancement.collection.jungle.panda.aggressive": "好斗",
+  "mob_heads.advancement.collection.jungle.panda.lazy": "懒惰",
+  "mob_heads.advancement.collection.jungle.panda.normal": "普通",
+  "mob_heads.advancement.collection.jungle.panda.playful": "顽皮",
+  "mob_heads.advancement.collection.jungle.panda.weak": "虚弱",
+  "mob_heads.advancement.collection.jungle.panda.worried": "发愁",
+  "mob_heads.advancement.collection.jungle.parrot": "鹦鹉头颅",
+  "mob_heads.advancement.collection.jungle.parrot.red_blue": "红蓝",
+  "mob_heads.advancement.collection.jungle.parrot.yellow_blue": "黄蓝",
+
+  "mob_heads.advancement.collection.llama.creamy": "奶油色",
+
+  "mob_heads.advancement.collection.nether": "下界头颅",
+
+  "mob_heads.advancement.collection.passive": "友好头颅",
+
+  "mob_heads.advancement.collection.passive.bee.angry_pollen": "愤怒带花粉",
+  "mob_heads.advancement.collection.passive.bee.angry": "愤怒",
+  "mob_heads.advancement.collection.passive.bee.normal": "普通",
+  "mob_heads.advancement.collection.passive.bee.pollen": "带花粉",
+
+  "mob_heads.advancement.collection.rabbit.gold": "金色",
+  "mob_heads.advancement.collection.rabbit.salt": "盐色",
+  "mob_heads.advancement.collection.rabbit.white_sploteched": "白色斑点"
+}

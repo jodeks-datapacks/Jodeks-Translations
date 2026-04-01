@@ -25,8 +25,8 @@ Below is a list of which datapacks/mods currently include translations and which
 
 | Datapack / Mod | Available Languages |
 |----------------|--------------------|
-| **Mob Heads** | 🇬🇧 English, 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japan, 🇨🇳 Chinese, 🇷🇺 Russian|
-| **Mob Heads Powers** | 🇬🇧 English, 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japan, 🇨🇳 Chinese, 🇷🇺 Russian|
+| **Mob Heads** | 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japan, 🇨🇳 Chinese, 🇷🇺 Russian|
+| **Mob Heads Powers** | 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japan, 🇨🇳 Chinese, 🇷🇺 Russian|
 | *(More coming soon!)* |  |
 
 ## Contribute

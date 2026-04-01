@@ -1,0 +1,136 @@
+{
+  "mob_heads.head": "Head",
+  "mob_heads.heads": "Heads",
+  "mob_heads.skull": "Skull",
+
+  "mob_heads.title": "Mob Heads",
+  "mob_heads.description": "Mobs can drop their head when killed",
+
+  "mob_heads.entity.charged_creeper": "Charged Creeper",
+  "mob_heads.entity.blue_axolotl": "Blue Axolotl",
+  "mob_heads.entity.special_panda": "Special Panda",
+
+  "mob_heads.get_head.desc": "Click on a head and click \"Run Command\"",
+  "mob_heads.get_head.desc.close": "Close with escape",
+
+  "mob_heads.config.title": "Mob Heads Config",
+  "mob_heads.config.description": "Make sure to save your changes!",
+
+  "mob_heads.config.drop_condition": "Drop condition",
+  "mob_heads.config.drop_condition.charged_creeper": "Killed by charged creeper",
+  "mob_heads.config.drop_condition.player": "Killed by player",
+
+  "mob_heads.config.head_drop_advancements": "Head Drop Advancements",
+
+  "mob_heads.config.drop_rates": "Drop Rates",
+  "mob_heads.config.drop_rates.description.1": "Drop rates are in decimal, e.g. 0.5 = 50%%",
+  "mob_heads.config.drop_rates.description.2": "The value in () is the multiplied value",
+  "mob_heads.config.drop_rates.description.3": "which is used as the actual drop rate",
+  "mob_heads.config.drop_rate_multiplier": "Drop Rate Multiplier",
+
+  "mob_heads.config.rarity": "Rarity (Head Name Color)",
+  "mob_heads.config.rarity.common": "0 = common = white",
+  "mob_heads.config.rarity.uncommon": "1 = uncommon = yellow",
+  "mob_heads.config.rarity.rare": "2 = rare = aqua",
+  "mob_heads.config.rarity.epic": "3 = epic = dark_purple",
+  "mob_heads.config.rarity.legendary": "4 = legendary = gold",
+  "mob_heads.config.rarity.mythic": "5 = mythic = green",
+
+  "mob_heads.config.drop_message": "Drop Message",
+  "mob_heads.config.drop_messages": "Drop Messages",
+  "mob_heads.config.drop_messages.description": "Use %s as a placeholder for the entity",
+
+  "mob_heads.config.drop_notification": "Drop Notification",
+  "mob_heads.config.drop_notifications": "Drop Notifications",
+  "mob_heads.config.drop_notifications.description": "Individually enable or disable drop notifications",
+
+  "mob_heads.config.get_all_head_advancements": "Get all Head Advancements",
+  "mob_heads.config.reset_all_head_advancements": "Reset all Head Advancements",
+
+  "mob_heads.advancement.collection.title": "Mob Heads Collection",
+  "mob_heads.advancement.collection.desc": "Collection of all mob heads you've got",
+
+  "mob_heads.advancement.collection.collect_all": "Collect all",
+  "mob_heads.advancement.collection.collect_the": "Collect the",
+
+  "mob_heads.advancement.collection.cold": "Cold",
+  "mob_heads.advancement.collection.temperate": "Temperate",
+  "mob_heads.advancement.collection.warm": "Warm",
+
+  "mob_heads.advancement.collection.aquatic": "Aquatic",
+  "mob_heads.advancement.collection.aquatic.coral": "Coral",
+
+  "mob_heads.advancement.collection.aquatic.axolotl.gold": "Gold",
+  "mob_heads.advancement.collection.aquatic.axolotl.leucistic": "Leucistic",
+  "mob_heads.advancement.collection.aquatic.axolotl.wild": "Wild",
+
+  "mob_heads.advancement.collection.aquatic.hostile": "Hostile Aquatic",
+  "mob_heads.advancement.collection.aquatic.passive": "Passive Aquatic",
+
+  "mob_heads.advancement.collection.boss": "Boss",
+  "mob_heads.advancement.collection.boss.wither.invulnerable": "Invulnerable",
+
+  "mob_heads.advancement.collection.carnivores": "Carnivore",
+  "mob_heads.advancement.collection.carnivores.wolf.ashen": "Ashen",
+  "mob_heads.advancement.collection.carnivores.wolf.chestnut": "Chestnut",
+  "mob_heads.advancement.collection.carnivores.wolf.pale": "Pale",
+  "mob_heads.advancement.collection.carnivores.wolf.rusty": "Rusty",
+  "mob_heads.advancement.collection.carnivores.wolf.snowy": "Snowy",
+  "mob_heads.advancement.collection.carnivores.wolf.spotted": "Spotted",
+  "mob_heads.advancement.collection.carnivores.wolf.striped": "Striped",
+  "mob_heads.advancement.collection.carnivores.wolf.woods": "Woods",
+
+  "mob_heads.advancement.collection.cat.all_black": "All Black",
+  "mob_heads.advancement.collection.cat.british_shorthair": "British Shorthair",
+  "mob_heads.advancement.collection.cat.calico": "Calico",
+  "mob_heads.advancement.collection.cat.jellie": "Jellie",
+  "mob_heads.advancement.collection.cat.persian": "Persian",
+  "mob_heads.advancement.collection.cat.ragdoll": "Ragdoll",
+  "mob_heads.advancement.collection.cat.siamese": "Siamese",
+  "mob_heads.advancement.collection.cat.tabby": "Tabby",
+
+  "mob_heads.advancement.collection.end": "End",
+
+  "mob_heads.advancement.collection.goat.screaming": "Screaming",
+  "mob_heads.advancement.collection.goat.left_horn": "(Left Horn)",
+  "mob_heads.advancement.collection.goat.no_horns": "(No Horns)",
+  "mob_heads.advancement.collection.goat.right_horn": "(Right Horn)",
+
+  "mob_heads.advancement.collection.golem": "Golem Heads",
+  "mob_heads.advancement.collection.golem.copper_golem.exposed": "Exposed",
+  "mob_heads.advancement.collection.golem.copper_golem.oxidized": "Oxidized",
+  "mob_heads.advancement.collection.golem.copper_golem.unaffected": "Unoxidized",
+  "mob_heads.advancement.collection.golem.copper_golem.weathered": "Weathered",
+
+  "mob_heads.advancement.collection.horse.chestnut": "Chestnut",
+  "mob_heads.advancement.collection.horse.creamy": "Creamy",
+  "mob_heads.advancement.collection.horse.darkbrown": "Dark Brown",
+
+  "mob_heads.advancement.collection.hostile": "Hostile",
+  "mob_heads.advancement.collection.hostile.raiders": "Raider",
+
+  "mob_heads.advancement.collection.jungle.panda.aggressive": "Aggressive",
+  "mob_heads.advancement.collection.jungle.panda.lazy": "Lazy",
+  "mob_heads.advancement.collection.jungle.panda.normal": "Normal",
+  "mob_heads.advancement.collection.jungle.panda.playful": "Playful",
+  "mob_heads.advancement.collection.jungle.panda.weak": "Weak",
+  "mob_heads.advancement.collection.jungle.panda.worried": "Worried",
+  "mob_heads.advancement.collection.jungle.parrot": "Parrot Heads",
+  "mob_heads.advancement.collection.jungle.parrot.red_blue": "Red",
+  "mob_heads.advancement.collection.jungle.parrot.yellow_blue": "Blue",
+
+  "mob_heads.advancement.collection.llama.creamy": "Creamy",
+
+  "mob_heads.advancement.collection.nether": "Nether Heads",
+
+  "mob_heads.advancement.collection.passive": "Passive Heads",
+
+  "mob_heads.advancement.collection.passive.bee.angry_pollen": "Angry Pollen",
+  "mob_heads.advancement.collection.passive.bee.angry": "Angry",
+  "mob_heads.advancement.collection.passive.bee.normal": "Normal",
+  "mob_heads.advancement.collection.passive.bee.pollen": "Pollen",
+
+  "mob_heads.advancement.collection.rabbit.gold": "Gold",
+  "mob_heads.advancement.collection.rabbit.salt": "Salt",
+  "mob_heads.advancement.collection.rabbit.white_sploteched": "White Splotched"
+}

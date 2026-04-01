@@ -1,0 +1,136 @@
+{
+  "mob_heads.head": "Голова",
+  "mob_heads.heads": "Головы",
+  "mob_heads.skull": "Череп",
+
+  "mob_heads.title": "Головы Мобов",
+  "mob_heads.description": "С мобов при смерти выпадает голова",
+
+  "mob_heads.entity.charged_creeper": "Заряженный Крипер",
+  "mob_heads.entity.blue_axolotl": "Синий Аксолотль",
+  "mob_heads.entity.special_panda": "Специальная Панда",
+
+  "mob_heads.get_head.desc": "Нажмите на голову и нажмите \"Выполнить команду\"",
+  "mob_heads.get_head.desc.close": "Закрыть (Escape)",
+
+  "mob_heads.config.title": "Настройки Mob Heads",
+  "mob_heads.config.description": "Не забудьте сохранить изменения!",
+
+  "mob_heads.config.drop_condition": "Условия выпадения",
+  "mob_heads.config.drop_condition.charged_creeper": "Смерть от заряженного крипера",
+  "mob_heads.config.drop_condition.player": "Смерть от игрока",
+
+  "mob_heads.config.head_drop_advancements": "Достижения за выпадения голов",
+
+  "mob_heads.config.drop_rates": "Шанс выпадения",
+  "mob_heads.config.drop_rates.description.1": "Шансы выпадения в десятичных, пример 0.5 = 50%%",
+  "mob_heads.config.drop_rates.description.2": "Значение в  () это умноженное значение",
+  "mob_heads.config.drop_rates.description.3": "которое является фактическим шансом выпадения",
+  "mob_heads.config.drop_rate_multiplier": "Множитель Шанса Выпадения",
+
+  "mob_heads.config.rarity": "Редкость (Цвет Названия Голов)",
+  "mob_heads.config.rarity.common": "0 = обычный = белый",
+  "mob_heads.config.rarity.uncommon": "1 = необычный = жёлтый",
+  "mob_heads.config.rarity.rare": "2 = редкий = аквамариновый",
+  "mob_heads.config.rarity.epic": "3 = эпический = тёмно-фиолетовый",
+  "mob_heads.config.rarity.legendary": "4 = легендарный = золотой",
+  "mob_heads.config.rarity.mythic": "5 = мифический = зелёный",
+
+  "mob_heads.config.drop_message": "Сообщение о Выпадении",
+  "mob_heads.config.drop_messages": "Сообщения о Выпадениях",
+  "mob_heads.config.drop_messages.description": "Используйте %s как временную замену для сущности",
+
+  "mob_heads.config.drop_notification": "Уведомление о Выпадении",
+  "mob_heads.config.drop_notifications": "Уведомления о Выпадениях",
+  "mob_heads.config.drop_notifications.description": "Индивидуальное включение или отключение уведомлений о выпадении",
+
+  "mob_heads.config.get_all_head_advancements": "Получить все Достижения за Головы",
+  "mob_heads.config.reset_all_head_advancements": "Сбросить все Достижения за Головы",
+
+  "mob_heads.advancement.collection.title": "Коллекция Голов Мобов",
+  "mob_heads.advancement.collection.desc": "Коллекция всех голов мобов имеющихся у вас",
+
+  "mob_heads.advancement.collection.collect_all": "Собрать все",
+  "mob_heads.advancement.collection.collect_the": "Собрать ...",
+
+  "mob_heads.advancement.collection.cold": "Холодные",
+  "mob_heads.advancement.collection.temperate": "Умеренные",
+  "mob_heads.advancement.collection.warm": "Тёплые",
+
+  "mob_heads.advancement.collection.aquatic": "Водяные",
+  "mob_heads.advancement.collection.aquatic.coral": "Коралловые",
+
+  "mob_heads.advancement.collection.aquatic.axolotl.gold": "Золотой",
+  "mob_heads.advancement.collection.aquatic.axolotl.leucistic": "Лейкист",
+  "mob_heads.advancement.collection.aquatic.axolotl.wild": "Дикий",
+
+  "mob_heads.advancement.collection.aquatic.hostile": "Враждебные Водяные",
+  "mob_heads.advancement.collection.aquatic.passive": "Мирные Водяные",
+
+  "mob_heads.advancement.collection.boss": "Босс",
+  "mob_heads.advancement.collection.boss.wither.invulnerable": "Неуязвимый",
+
+  "mob_heads.advancement.collection.carnivores": "Хищники",
+  "mob_heads.advancement.collection.carnivores.wolf.ashen": "Пепельный",
+  "mob_heads.advancement.collection.carnivores.wolf.chestnut": "Каштановый",
+  "mob_heads.advancement.collection.carnivores.wolf.pale": "Бледный",
+  "mob_heads.advancement.collection.carnivores.wolf.rusty": "Рыжий",
+  "mob_heads.advancement.collection.carnivores.wolf.snowy": "Снежный",
+  "mob_heads.advancement.collection.carnivores.wolf.spotted": "Пятнистый",
+  "mob_heads.advancement.collection.carnivores.wolf.striped": "Полосатый",
+  "mob_heads.advancement.collection.carnivores.wolf.woods": "Лесной",
+
+  "mob_heads.advancement.collection.cat.all_black": "Чёрная",
+  "mob_heads.advancement.collection.cat.british_shorthair": "Британская Короткошёрстная",
+  "mob_heads.advancement.collection.cat.calico": "Cитцевая",
+  "mob_heads.advancement.collection.cat.jellie": "Джелли",
+  "mob_heads.advancement.collection.cat.persian": "Персидская",
+  "mob_heads.advancement.collection.cat.ragdoll": "Тряпичная",
+  "mob_heads.advancement.collection.cat.siamese": "Сиамская",
+  "mob_heads.advancement.collection.cat.tabby": "Полосатая",
+
+  "mob_heads.advancement.collection.end": "Энд",
+
+  "mob_heads.advancement.collection.goat.screaming": "Кричащие",
+  "mob_heads.advancement.collection.goat.left_horn": "(Левый рог)",
+  "mob_heads.advancement.collection.goat.no_horns": "(Без рогов)",
+  "mob_heads.advancement.collection.goat.right_horn": "(Правый рог)",
+
+  "mob_heads.advancement.collection.golem": "Головы големов",
+  "mob_heads.advancement.collection.golem.copper_golem.exposed": "Потемневшее",
+  "mob_heads.advancement.collection.golem.copper_golem.oxidized": "Окисленное",
+  "mob_heads.advancement.collection.golem.copper_golem.unaffected": "Неокисленное",
+  "mob_heads.advancement.collection.golem.copper_golem.weathered": "Состаренное",
+
+  "mob_heads.advancement.collection.horse.chestnut": "Игреневая",
+  "mob_heads.advancement.collection.horse.creamy": "Буланая",
+  "mob_heads.advancement.collection.horse.darkbrown": "Тёмно-Гнедая",
+
+  "mob_heads.advancement.collection.hostile": "Враждебные",
+  "mob_heads.advancement.collection.hostile.raiders": "Разбойники",
+
+  "mob_heads.advancement.collection.jungle.panda.aggressive": "Агрессивная",
+  "mob_heads.advancement.collection.jungle.panda.lazy": "Ленивая",
+  "mob_heads.advancement.collection.jungle.panda.normal": "Обычная",
+  "mob_heads.advancement.collection.jungle.panda.playful": "Игривая",
+  "mob_heads.advancement.collection.jungle.panda.weak": "Слабая",
+  "mob_heads.advancement.collection.jungle.panda.worried": "Беспокойная",
+  "mob_heads.advancement.collection.jungle.parrot": "Головы Попугаев",
+  "mob_heads.advancement.collection.jungle.parrot.red_blue": "Красный",
+  "mob_heads.advancement.collection.jungle.parrot.yellow_blue": "Синий",
+
+  "mob_heads.advancement.collection.llama.creamy": "Кремовый",
+
+  "mob_heads.advancement.collection.nether": "Головы из Незера",
+
+  "mob_heads.advancement.collection.passive": "Головы Мирных мобов",
+
+  "mob_heads.advancement.collection.passive.bee.angry_pollen": "Злая с пыльцой",
+  "mob_heads.advancement.collection.passive.bee.angry": "Злая",
+  "mob_heads.advancement.collection.passive.bee.normal": "Обычная",
+  "mob_heads.advancement.collection.passive.bee.pollen": "С пыльцой",
+
+  "mob_heads.advancement.collection.rabbit.gold": "Золотой",
+  "mob_heads.advancement.collection.rabbit.salt": "Бело-Коричневый",
+  "mob_heads.advancement.collection.rabbit.white_sploteched": "Белый Пятнистый"
+}
