@@ -1,0 +1,6 @@
+{
+  "call_your_nautilus.config.no_player_on_nautilus": "Calling doesn't work when player is mounting the Nautilus",
+  "call_your_nautilus.config.mount_automatically": "Automatically mount the Nautilus after calling it",
+  "call_your_nautilus.config.player_in_water_check": "Calling only works when the player is in water",
+  "call_your_nautilus.config.nautilus_owner": "Only the first player that bound a horn to a Nautilus can call it"
+}

@@ -1,0 +1,8 @@
+{
+  "upgradeable_spawners.config.spawn_count": "Spawn Count Upgrade",
+  "upgradeable_spawners.config.spawn_delay": "Spawn Delay Upgrade",
+  "upgradeable_spawners.config.player_distance": "Player Distance Upgrade",
+  "upgradeable_spawners.config.spawn_range": "Spawn Range Upgrade",
+  "upgradeable_spawners.config.no_ai": "No AI Upgrade",
+  "upgradeable_spawners.config.low_hp": "Low HP Upgrade"
+}

@@ -1,0 +1,9 @@
+{
+  "transfer_pet_owner.config.player_name": "Player name",
+  "transfer_pet_owner.config.add_player": "Add Player",
+  "transfer_pet_owner.config.reset_players": "Reset Players",
+  "transfer_pet_owner.config.escape_to_close": "Press escape to close",
+  "transfer_pet_owner.config.add_players": "Add players that can transfer any pet",
+  "transfer_pet_owner.config.no_ownership": "(They don't need to own the pet)",
+  "transfer_pet_owner.config.online_requirement": "When adding / resetting the players, they need to be online"
+}

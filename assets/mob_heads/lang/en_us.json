@@ -132,5 +132,8 @@
 
   "mob_heads.advancement.collection.rabbit.gold": "Gold",
   "mob_heads.advancement.collection.rabbit.salt": "Salt",
-  "mob_heads.advancement.collection.rabbit.white_sploteched": "White Splotched"
+  "mob_heads.advancement.collection.rabbit.white_sploteched": "White Splotched",
+
+  "mob_heads.baby": "Baby",
+  "mob_heads.config.set_1": "Set everything to 1"
 }

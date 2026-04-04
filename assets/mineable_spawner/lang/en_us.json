@@ -1,0 +1,5 @@
+{
+  "mineable_spawner.config.pickaxe_silktouch": "Pickaxe needs silktouch",
+  "mineable_spawner.config.xp_drop": "Spawner drops xp",
+  "mineable_spawner.config.spawn_egg_drop": "Spawner drops spawn egg"
+}

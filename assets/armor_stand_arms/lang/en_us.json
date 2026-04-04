@@ -1,0 +1,6 @@
+{
+  "armor_stand_arms.description": "Armor stands have arms by default",
+  "armor_stand_arms.config.right_click_arms": "Shift + right click armor stand to hide / show arms",
+  "armor_stand_arms.action.show_all": "Show Arms on All Armor Stands",
+  "armor_stand_arms.action.remove_all": "Remove Arms from All Armor Stands"
+}

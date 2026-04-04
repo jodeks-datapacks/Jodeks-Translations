@@ -1,0 +1,4 @@
+{
+  "custom_breed_cooldown.config.mob_cooldown": "Mob breed cooldown in seconds",
+  "custom_breed_cooldown.config.villager_cooldown": "Villager breed cooldown in seconds"
+}

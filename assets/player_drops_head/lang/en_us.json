@@ -1,0 +1,18 @@
+{
+  "player_drops_head.get_head.input": "Input player name",
+  "player_drops_head.get_head": "Get Head",
+  "player_drops_head.config.give_own_head": "Give own head",
+  "player_drops_head.config.give_head": "Give any head",
+  "player_drops_head.config.head_drops": "Head drops",
+  "player_drops_head.config.player_config": "Player config",
+  "player_drops_head.config.area_config": "Head Drop Area Config",
+  "player_drops_head.config.area_enabled": "Area Enabled",
+  "player_drops_head.config.area_x": "X coordinate",
+  "player_drops_head.config.area_y": "Y coordinate",
+  "player_drops_head.config.area_z": "Z coordinate",
+  "player_drops_head.config.area_radius": "Radius around specified coordinates",
+  "player_drops_head.config.area_description": "Specify a certain area in which head drops are allowed",
+  "player_drops_head.config.player_description": "Input players you want to not drop a head. The player has to be online",
+  "player_drops_head.config.player_no_head": "Current players that don't drop a head:",
+  "player_drops_head.config.player_name": "Player Name"
+}

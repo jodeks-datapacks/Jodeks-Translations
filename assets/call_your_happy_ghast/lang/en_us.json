@@ -1,0 +1,5 @@
+{
+  "call_your_happy_ghast.config.no_player_on_happy_ghast": "Calling doesn't work when player is mounting the happy ghast",
+  "call_your_happy_ghast.config.mount_automatically": "Automatically mount the happy ghast after calling it",
+  "call_your_happy_ghast.config.happy_ghast_owner": "Only the first player that bound a horn to a happy ghast can call it"
+}

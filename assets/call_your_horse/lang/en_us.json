@@ -1,0 +1,6 @@
+{
+  "call_your_horse.config.no_player_on_horse": "Calling doesn't work when player is on horse",
+  "call_your_horse.config.mount_automatically": "Automatically mount the horse after calling it",
+  "call_your_horse.config.callable_horses": "Callable Horses Config",
+  "call_your_horse.config.callable_without_owner": "Callable Without Owner Horses Config"
+}
