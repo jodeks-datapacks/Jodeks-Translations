@@ -135,5 +135,7 @@
   "mob_heads.advancement.collection.rabbit.white_sploteched": "White Splotched",
 
   "mob_heads.baby": "Baby",
-  "mob_heads.config.set_1": "Set everything to 1"
+  "mob_heads.config.set_1": "Set everything to 1",
+  "mob_heads.rabbit.toast": "Toast",
+  "mob_heads.rabbit.evil": "Evil"
 }
