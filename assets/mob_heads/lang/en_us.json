@@ -137,5 +137,19 @@
   "mob_heads.baby": "Baby",
   "mob_heads.config.set_1": "Set everything to 1",
   "mob_heads.rabbit.toast": "Toast",
-  "mob_heads.rabbit.evil": "Evil"
+  "mob_heads.rabbit.evil": "Evil",
+
+  "mob_heads.title.get_mob_head": "Get Mob Head",
+  "mob_heads.title.mob_heads": "Mob Heads",
+  "mob_heads.title.baby_mob_heads": "Baby Mob Heads",
+  "mob_heads.title.villager_heads": "Villager Heads",
+  "mob_heads.title.zombie_villager_heads": "Zombie Villager Heads",
+  "mob_heads.title.tropcial_fish_heads": "Tropical Fish Heads",
+
+  "mob_heads.entity.johnny": "Johnny",
+
+  "mob_heads.entity.charging_vex": "Charging Vex",
+
+  "mob_heads.happy_ghast.up": "Happy Ghast (Up)",
+  "mob_heads.happy_ghast.down": "Happy Ghast (Down)"
 }
